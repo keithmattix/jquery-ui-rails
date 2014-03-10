@@ -143,7 +143,6 @@ function getViewOffset(node) {
     if ( $.ui.ddmanager ) $.ui.ddmanager.dragStart(this, event);
 
     return true;
-
   };
  }
 monkeyPatch_mouseStart();
