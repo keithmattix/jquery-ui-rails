@@ -33,3 +33,4 @@
 //= require jquery.ui.tooltip
 //= require jquery.ui.widget
 //= require jquery.ui.drag-patch
+
